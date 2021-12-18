@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaesarx10
+- 👋 Hi, I’m Cesar Aaron Venzor
 - 👀 I’m interested in Finance, and Data Science
 - 🌱 I’m currently learning everything Python, ML, Data Analysis
 - 📫 How to reach me - venzor.ca@gmail.com
