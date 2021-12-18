@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kaesarx10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... nothing yet
-- 📫 How to reach me ... don't
+- 👀 I’m interested in Finance, and Data Science
+- 🌱 I’m currently learning everything Python, ML, Data Analysis
+- 📫 How to reach me - venzor.ca@gmail.com
 
 <!---
 Kaesarx10/Kaesarx10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
