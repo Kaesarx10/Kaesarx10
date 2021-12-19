@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cesar Aaron Venzor
-- 👀 I’m interested in Finance, and Data Science
-- 🌱 I’m currently learning everything Python, ML, Data Analysis
+- 👀 I’m interested in Finance, and Data Science.
+- 🌱 I’m currently learning everything Python, ML, and Data Analysis.
 - 📫 How to reach me - venzor.ca@gmail.com
 
 <!---
